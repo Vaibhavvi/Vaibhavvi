@@ -7,7 +7,7 @@ I have a deep interest in technology, particularly in web development, and I con
 Skills & Expertise
 Frontend Development
 HTML5, CSS3, JavaScript
-Frontend frameworks:Bootstrap, React.js
+Frontend frameworks:Bootstrap, React.js , Next.js
 Responsive Web Design (RWD) & Mobile-First Design
 
 Version Control: Git, GitHub
@@ -38,14 +38,14 @@ LinkedIn: Vaibhav Dubey – Connect with me to stay updated on my professional j
 
 GitHub:Vaibhavvi – Explore my open-source contributions and personal projects.
 
-Instagram:vaibhav_dubey_111
+Instagram:  https://www.instagram.com/vaibhav_dubey_111/
 
-Leetcode:vaibhav_dubey_111
+Leetcode:  https://leetcode.com/u/vaibhav_dubey_111/
 
 Contact
 You can reach out to me via:
 
 Email: vd3111542@gmail.com
-LinkedIn: Vaibhav Dubey
+LinkedIn: [Vaibhav Dubey](https://www.linkedin.com/in/vaibhav-dubey-8199292b4/)
 Feel free to connect with me for project collaborations, tech discussions, or if you need help with any programming-related questions!
 
