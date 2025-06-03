@@ -1,51 +1,64 @@
-Vaibhav Dubey - Frontend Developer, C++ Enthusiast.
+<!-- GitHub Profile README -->
+<h1 align="center">Hi 👋, I'm [Vaibhav Dubey]</h1>
+<h3 align="center">Frontend Expert | MERN Stack Developer | C++ & Python Enthusiast</h3>
 
-Hello! I'm Vaibhav Dubey, a passionate programmer and tech enthusiast with a keen interest in Frontend Development and C++ . I believe in writing clean, maintainable code, and I enjoy taking on challenging problems and working on innovative solutions.
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0ABDE3&height=200&section=header&text=Welcome%20to%20My%20GitHub!&fontSize=35&fontColor=ffffff" />
+</p>
 
-I have a deep interest in technology, particularly in web development, and I constantly strive to learn new things and stay up-to-date with the latest trends in the tech world.
+---
 
-Skills & Expertise
-Frontend Development
-HTML5, CSS3, JavaScript
-Frontend frameworks:Bootstrap, React.js , Next.js
-Responsive Web Design (RWD) & Mobile-First Design
+## 🚀 About Me
 
-Version Control: Git, GitHub
+- 🔭 I’m currently working on **React projects & scalable full-stack apps**
+- 🌱 I’m learning **TypeScript, DevOps basics**
+- 💬 Ask me about **React, MongoDB, Node.js, Python, or C++**
+- 👯 I’m open to collaborate on **Frontend-heavy or full-stack web apps**
+- ⚡ Fun Fact: I love clean UIs, fast logic, and solving algorithmic puzzles!
 
-Object-Oriented Programming (OOP)
+---
 
-Data Structures and Algorithms
+## 🛠️ Tech Stack
 
-Competitive Programming
+### 💻 Frontend
+![React](https://img.shields.io/badge/-React-61DAFB?style=flat-square&logo=react)
+![Next.js](https://img.shields.io/badge/-Next.js-000000?style=flat-square&logo=next.js)
+![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
+![TailwindCSS](https://img.shields.io/badge/-TailwindCSS-38B2AC?style=flat-square&logo=tailwind-css)
+![HTML](https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5)
+![CSS](https://img.shields.io/badge/-CSS3-1572B6?style=flat-square&logo=css3)
 
-Tools & Technologies
-VS Code, PyCharm for development environments
-Postman for API testing
-NPM, Yarn for dependency management
+### 🧠 Backend & Database
+![Node.js](https://img.shields.io/badge/-Node.js-339933?style=flat-square&logo=node.js)
+![Express.js](https://img.shields.io/badge/-Express.js-black?style=flat-square&logo=express)
+![MongoDB](https://img.shields.io/badge/-MongoDB-47A248?style=flat-square&logo=mongodb)
 
-Here are some of my key projects:
+### 🧮 Programming Languages
+![C++](https://img.shields.io/badge/-C++-00599C?style=flat-square&logo=c%2B%2B)
+![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python)
 
-Portfolio Website
-A responsive personal portfolio built with React.js and CSS to showcase my work and projects.
+### ⚙️ Tools
+![Git](https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git)
+![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github)
+![VS Code](https://img.shields.io/badge/-VS%20Code-007ACC?style=flat-square&logo=visual-studio-code)
 
-CodePaste App
-A Frontend with localstorage task management app built with React, Redux. Users can create, update, and manage tasks.
+---
 
-Social Media & Community Engagement
-I actively engage in discussions, share my work, and contribute to the tech community across multiple platforms:
+## 📈 GitHub Stats
 
-LinkedIn: Vaibhav Dubey – Connect with me to stay updated on my professional journey.
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Vaibhavvi&show_icons=true&theme=tokyonight" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Vaibhavvi&theme=tokyonight" />
+</p>
 
-GitHub:Vaibhavvi – Explore my open-source contributions and personal projects.
+---
 
-Instagram:  https://www.instagram.com/vaibhav_dubey_111/
+## 🌍 Connect with Me
 
-Leetcode:  https://leetcode.com/u/vaibhav_dubey_111/
+- 📫 Email: [vd3111542@gmail.com]
+- 🌐 Portfolio: [Vaibhav_Portfolio.com](https://vaibhav-portfolio-liard.vercel.app/)
+- 💼 LinkedIn: [ https://www.linkedin.com/in/vaibhav-dubey-8199292b4/ ]
 
-Contact
-You can reach out to me via:
+---
 
-Email: vd3111542@gmail.com
-LinkedIn: [Vaibhav Dubey](https://www.linkedin.com/in/vaibhav-dubey-8199292b4/)
-Feel free to connect with me for project collaborations, tech discussions, or if you need help with any programming-related questions!
-
+<p align="center"><b>Let's build something amazing together! 🚀</b></p>
