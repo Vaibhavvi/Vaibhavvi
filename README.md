@@ -1,6 +1,6 @@
 <!-- GitHub Profile README -->
 <h1 align="center">Hi 👋, I'm [Vaibhav Dubey]</h1>
-<h3 align="center">Frontend Expert | MERN Stack Developer | C++ & Python Enthusiast</h3>
+<h3 align="center">| MERN Stack Developer | C++ & Python Enthusiast | Fast Learner | </h3>
 
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0ABDE3&height=200&section=header&text=Welcome%20to%20My%20GitHub!&fontSize=35&fontColor=ffffff" />
@@ -10,38 +10,68 @@
 
 ## 🚀 About Me
 
-- 🔭 I’m currently working on **React projects & scalable full-stack apps**
-- 🌱 I’m learning **TypeScript, DevOps basics**
-- 💬 Ask me about **React, MongoDB, Node.js, Python, or C++**
-- 👯 I’m open to collaborate on **Frontend-heavy or full-stack web apps**
-- ⚡ Fun Fact: I love clean UIs, fast logic, and solving algorithmic puzzles!
+- 🔭 Currently building **scalable full-stack MERN applications** with modern UI
+- 🌱 Exploring **DevOps basics**, and improving skills in **Data Structures & Algorithms**
+- 💬 Ask me about **React.js, Node.js, MongoDB, Express, JavaScript, C++, or Python**
+- 👨‍💻 I love building clean, fast, and responsive user interfaces
+- 👯 Open to collaborate on **frontend-focused or full-stack web development projects**
+- ⚡ Fun fact: I enjoy solving real-world problems with code and designing seamless user experiences
+
+
+## 🧠 My Tech Stack
+
+### 🎨 Frontend
+<p align="center">
+  <img src="https://raw.githubusercontent.com/github/explore/main/topics/html/html.png" alt="HTML" width="50" title="HTML5" />
+  &nbsp;
+  <img src="https://raw.githubusercontent.com/github/explore/main/topics/css/css.png" alt="CSS" width="50" title="CSS3" />
+  &nbsp;
+  <img src="https://raw.githubusercontent.com/github/explore/main/topics/javascript/javascript.png" alt="JavaScript" width="50" title="JavaScript" />
+  &nbsp;
+  <img src="https://raw.githubusercontent.com/github/explore/main/topics/react/react.png" alt="React" width="50" title="ReactJS" />
+  &nbsp;
+  <img src="https://raw.githubusercontent.com/github/explore/main/topics/tailwind/tailwind.png" alt="TailwindCSS" width="50" title="Tailwind CSS" />
+</p>
 
 ---
 
-## 🛠️ Tech Stack
+### 🧰 Backend & Database
+<p align="center">
+  <img src="https://raw.githubusercontent.com/github/explore/main/topics/nodejs/nodejs.png" alt="Node.js" width="50" title="Node.js" />
+  &nbsp;
+  <img src="https://raw.githubusercontent.com/github/explore/main/topics/express/express.png" alt="Express.js" width="50" title="Express.js" />
+  &nbsp;
+  <img src="https://raw.githubusercontent.com/github/explore/main/topics/mongodb/mongodb.png" alt="MongoDB" width="50" title="MongoDB" />
+</p>
 
-### 💻 Frontend
-![React](https://img.shields.io/badge/-React-61DAFB?style=flat-square&logo=react)
-![Next.js](https://img.shields.io/badge/-Next.js-000000?style=flat-square&logo=next.js)
-![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
-![TailwindCSS](https://img.shields.io/badge/-TailwindCSS-38B2AC?style=flat-square&logo=tailwind-css)
-![HTML](https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5)
-![CSS](https://img.shields.io/badge/-CSS3-1572B6?style=flat-square&logo=css3)
+---
 
-### 🧠 Backend & Database
-![Node.js](https://img.shields.io/badge/-Node.js-339933?style=flat-square&logo=node.js)
-![Express.js](https://img.shields.io/badge/-Express.js-black?style=flat-square&logo=express)
-![MongoDB](https://img.shields.io/badge/-MongoDB-47A248?style=flat-square&logo=mongodb)
+### 💻 Programming Languages
+<p align="center">
+  <img src="https://raw.githubusercontent.com/github/explore/main/topics/javascript/javascript.png" alt="JavaScript" width="50" title="JavaScript" />
+  &nbsp;
+  <img src="https://raw.githubusercontent.com/github/explore/main/topics/python/python.png" alt="Python" width="50" title="Python" />
+  &nbsp;
+  <img src="https://raw.githubusercontent.com/github/explore/main/topics/cplusplus/cplusplus.png" alt="C++" width="50" title="C++" />
+  &nbsp;
+  <img src="https://raw.githubusercontent.com/github/explore/main/topics/c/c.png" alt="C" width="50" title="C" />
+</p>
 
-### 🧮 Programming Languages
-![C++](https://img.shields.io/badge/-C++-00599C?style=flat-square&logo=c%2B%2B)
-![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python)
 
-### ⚙️ Tools
-![Git](https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git)
-![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github)
-![VS Code](https://img.shields.io/badge/-VS%20Code-007ACC?style=flat-square&logo=visual-studio-code)
+## 🛠️ Tools I Use
 
+<p align="center">
+  <img src="https://cdn.worldvectorlogo.com/logos/git-icon.svg" alt="Git" width="60" height="60" title="Git" style="margin: 10px;" />
+  <img src="https://cdn.worldvectorlogo.com/logos/github-icon-1.svg" alt="GitHub" width="60" height="60" title="GitHub" style="margin: 10px;" />
+  <img src="https://assets.vercel.com/image/upload/v1662134469/repositories/vercel/vercel-icon.svg" alt="Vercel" width="60" height="60" title="Vercel" style="margin: 10px;" />
+  <img src="https://www.vectorlogo.zone/logos/netlify/netlify-icon.svg" alt="Netlify" width="60" height="60" title="Netlify" style="margin: 10px;" />
+  <img src="https://seeklogo.com/images/P/postman-logo-6F4057663D-seeklogo.com.png" alt="Postman" width="60" height="60" title="Postman" style="margin: 10px;" />
+  <img src="https://cdn.worldvectorlogo.com/logos/visual-studio-code-1.svg" alt="VS Code" width="60" height="60" title="VS Code" style="margin: 10px;" />
+</p>
+
+<p align="center">
+  <b>Git</b> &nbsp;|&nbsp; <b>GitHub</b> &nbsp;|&nbsp; <b>Vercel</b> &nbsp;|&nbsp; <b>Netlify</b> &nbsp;|&nbsp; <b>Postman</b> &nbsp;|&nbsp; <b>Visual Studio Code</b>
+</p>
 ---
 
 ## 📈 GitHub Stats
@@ -49,6 +79,7 @@
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=Vaibhavvi&show_icons=true&theme=tokyonight" />
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=Vaibhavvi&theme=tokyonight" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Vaibhavvi&layout=compact&theme=tokyonight&langs_count=8" />
 </p>
 
 ---
