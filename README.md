@@ -5,14 +5,14 @@
 <h1 align="center">Hi 👋, I'm Vaibhav Dubey</h1>
 
 <h3 align="center">
-MERN Stack Developer • Backend-Focused • Python • Fast Learner
+Backend-Focused MERN Stack Developer • DSA Basics • Fast Learner
 </h3>
 
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0ABDE3&height=230&section=header&text=Building%20Scalable%20Web%20Applications&fontSize=34&fontColor=ffffff" />
 </p>
 
-<!-- PROFILE STATUS BADGES -->
+<!-- STATUS BADGES -->
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=Vaibhavvi&label=Profile%20Views&color=0ABDE3&style=for-the-badge"/>
   <img src="https://img.shields.io/github/followers/Vaibhavvi?label=Followers&style=for-the-badge"/>
@@ -24,81 +24,65 @@ MERN Stack Developer • Backend-Focused • Python • Fast Learner
 
 ## 🚀 About Me
 
-🎯 **Backend-focused MERN Stack Developer** passionate about building **real-world, scalable applications**
+🎯 **Backend-focused MERN Stack Developer** passionate about building **scalable, real-world web applications**
 
-- 🔭 Working on **production-ready MERN projects**
+- 🔭 Working on **production-ready full-stack projects**
 - 🌱 Learning **Advanced Backend, DevOps basics & DSA**
-- 💬 Experienced with **REST APIs, Auth, CRUD, MVC**
-- 🧠 Strong focus on **clean code & performance**
+- 💬 Strong in **REST APIs, Authentication, CRUD & MVC**
+- 🧠 Focused on **clean code, performance & best practices**
 - 🤝 Open to **Internships | Entry-Level Roles | Open Source**
 - ⚡ *Consistency beats motivation*
 
 ---
 
-## 🧠 Tech Stack
-
-### 🎨 Frontend
+## 🎨 Frontend Technologies
 <p align="center">
-  <img src="https://raw.githubusercontent.com/github/explore/main/topics/html/html.png" width="50"/>
-  <img src="https://raw.githubusercontent.com/github/explore/main/topics/css/css.png" width="50"/>
-  <img src="https://raw.githubusercontent.com/github/explore/main/topics/javascript/javascript.png" width="50"/>
-  <img src="https://raw.githubusercontent.com/github/explore/main/topics/react/react.png" width="50"/>
-  <img src="https://raw.githubusercontent.com/github/explore/main/topics/tailwind/tailwind.png" width="50"/>
+  <img src="https://skillicons.dev/icons?i=html,css,js,react,tailwind,bootstrap" />
 </p>
 
 ---
 
-### 🧰 Backend & Database
+## ⚙️ Backend & Database
 <p align="center">
-  <img src="https://raw.githubusercontent.com/github/explore/main/topics/nodejs/nodejs.png" width="50"/>
-  <img src="https://raw.githubusercontent.com/github/explore/main/topics/express/express.png" width="50"/>
-  <img src="https://raw.githubusercontent.com/github/explore/main/topics/mongodb/mongodb.png" width="50"/>
+  <img src="https://skillicons.dev/icons?i=nodejs,express,mongodb" />
 </p>
 
 ---
 
-### 💻 Programming Languages
+## 💻 Programming Languages
 <p align="center">
-  <img src="https://raw.githubusercontent.com/github/explore/main/topics/javascript/javascript.png" width="50"/>
-  <img src="https://raw.githubusercontent.com/github/explore/main/topics/python/python.png" width="50"/>
-  <img src="https://raw.githubusercontent.com/github/explore/main/topics/cplusplus/cplusplus.png" width="50"/>
-  <img src="https://raw.githubusercontent.com/github/explore/main/topics/c/c.png" width="50"/>
+  <img src="https://skillicons.dev/icons?i=javascript,python,cpp,c" />
 </p>
 
 ---
 
 ## 🛠️ Tools & Platforms
 <p align="center">
-  <img src="https://cdn.worldvectorlogo.com/logos/git-icon.svg" width="55"/>
-  <img src="https://cdn.worldvectorlogo.com/logos/github-icon-1.svg" width="55"/>
-  <img src="https://assets.vercel.com/image/upload/v1662134469/repositories/vercel/vercel-icon.svg" width="55"/>
-  <img src="https://www.vectorlogo.zone/logos/netlify/netlify-icon.svg" width="55"/>
-  <img src="https://seeklogo.com/images/P/postman-logo-6F4057663D-seeklogo.com.png" width="55"/>
-  <img src="https://cdn.worldvectorlogo.com/logos/visual-studio-code-1.svg" width="55"/>
+  <img src="https://skillicons.dev/icons?i=git,github,vercel,netlify,postman,vscode" />
 </p>
 
 ---
 
 ## 🏆 GitHub Achievements
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Vaibhavvi&theme=onedark&row=1&column=7"/>
+  <img src="https://github-profile-trophy.vercel.app/?username=Vaibhavvi&theme=onedark&no-frame=true&row=1&column=7" />
 </p>
 
 ---
 
-## 📈 GitHub Stats & Activity
+## 📈 GitHub Stats
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Vaibhavvi&show_icons=true&theme=tokyonight" height="165"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Vaibhavvi&theme=tokyonight" height="165"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=Vaibhavvi&show_icons=true&theme=tokyonight&hide_border=true" height="165"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Vaibhavvi&theme=tokyonight&hide_border=true" height="165"/>
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Vaibhavvi&layout=compact&theme=tokyonight"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Vaibhavvi&layout=compact&theme=tokyonight&hide_border=true"/>
 </p>
 
 ---
 
-## 🗓️ Contribution Calendar
+## 🗓️ Contribution Activity
 <p align="center">
   <img src="https://ghchart.rshah.org/0ABDE3/Vaibhavvi" />
 </p>
@@ -113,12 +97,20 @@ MERN Stack Developer • Backend-Focused • Python • Fast Learner
 ---
 
 ## 🌍 Connect With Me
-- 📫 **Email:** vd3111542@gmail.com  
-- 🌐 **Portfolio:** https://vaibhav-portfolio-liard.vercel.app  
-- 💼 **LinkedIn:** https://www.linkedin.com/in/vaibhav-dubey-8199292b4/
+<p align="center">
+  <a href="mailto:vd3111542@gmail.com">
+    <img src="https://img.shields.io/badge/Email-Contact-0ABDE3?style=for-the-badge"/>
+  </a>
+  <a href="https://vaibhav-portfolio-liard.vercel.app" target="_blank">
+    <img src="https://img.shields.io/badge/Portfolio-Live-0ABDE3?style=for-the-badge"/>
+  </a>
+  <a href="https://www.linkedin.com/in/vaibhav-dubey-8199292b4/" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-Connect-0ABDE3?style=for-the-badge"/>
+  </a>
+</p>
 
 ---
 
 <p align="center">
-  <b>🚀 Open to Internships & Entry-Level Roles — Let’s build something impactful together!</b>
+  <b>🚀 Open to Internships & Entry-Level Roles — Let’s build impactful products together!</b>
 </p>
