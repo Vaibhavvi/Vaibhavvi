@@ -5,7 +5,7 @@
 <h1 align="center">Hi 👋, I'm Vaibhav Dubey</h1>
 
 <h3 align="center">
-Backend-Focused MERN Stack Developer • DSA Basics • Fast Learner
+Backend-Focused MERN Stack Developer • DSA JAVA • FAST LEARNER
 </h3>
 
 <p align="center">
@@ -27,7 +27,7 @@ Backend-Focused MERN Stack Developer • DSA Basics • Fast Learner
 🎯 **Backend-focused MERN Stack Developer** passionate about building **scalable, real-world web applications**
 
 - 🔭 Working on **production-ready full-stack projects**
-- 🌱 Learning **Advanced Backend, DevOps basics & DSA**
+- 🌱 Learning **Advanced Backend, DSA JAVA**
 - 💬 Strong in **REST APIs, Authentication, CRUD & MVC**
 - 🧠 Focused on **clean code, performance & best practices**
 - 🤝 Open to **Internships | Entry-Level Roles | Open Source**
