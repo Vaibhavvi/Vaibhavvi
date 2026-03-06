@@ -5,7 +5,7 @@
 <h1 align="center">Hi 👋, I'm Vaibhav Dubey</h1>
 
 <h3 align="center">
-Backend-Focused MERN Stack Developer • DSA JAVA
+Backend-Focused MERN Stack Developer • DSA in Java
 </h3>
 
 <p align="center">
@@ -22,74 +22,81 @@ Backend-Focused MERN Stack Developer • DSA JAVA
 
 ---
 
-## 🚀 About Me
+# 🚀 About Me
 
-🎯 **Backend-focused MERN Stack Developer** passionate about building **scalable, real-world web applications**
+🎯 Backend-focused MERN Stack Developer passionate about building **scalable and production-ready web applications**
 
-- 🔭 Working on **production-ready full-stack projects**
-- 🌱 Learning **Advanced Backend, DSA JAVA**
-- 💬 Strong in **REST APIs, Authentication, CRUD & MVC**
-- 🧠 Focused on **clean code, performance & best practices**
-- 🤝 Open to **Internships | Entry-Level Roles | Open Source**
+- 🔭 Currently building **real-world full-stack projects**
+- 🌱 Learning **Advanced Backend Development & DSA in Java**
+- 💬 Skilled in **REST APIs, Authentication, CRUD, MVC Architecture**
+- 🧠 Focused on **clean code, performance optimization & scalability**
+- 🤝 Open to **Internships | Entry-Level Roles | Open Source Contributions**
 - ⚡ *Consistency beats motivation*
 
 ---
 
-## 🎨 Frontend Technologies
+# 🧠 Tech Stack
+
+### 🎨 Frontend
 <p align="center">
   <img src="https://skillicons.dev/icons?i=html,css,js,react,tailwind,bootstrap" />
 </p>
 
----
-
-## ⚙️ Backend & Database
+### ⚙️ Backend & Database
 <p align="center">
   <img src="https://skillicons.dev/icons?i=nodejs,express,mongodb" />
 </p>
 
----
-
-## 💻 Programming Languages
+### 💻 Programming Languages
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=javascript,python,cpp,c" />
+  <img src="https://skillicons.dev/icons?i=javascript,java,python,cpp,c" />
 </p>
 
----
-
-## 🛠️ Tools & Platforms
+### 🛠️ Tools & Platforms
 <p align="center">
   <img src="https://skillicons.dev/icons?i=git,github,vercel,netlify,postman,vscode" />
 </p>
 
 ---
 
-## 📈 GitHub Stats
+# 📊 GitHub Stats
+
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Vaibhavvi&show_icons=true&theme=tokyonight&hide_border=true" height="165"/>
+
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=Vaibhavvi&theme=tokyonight&hide_border=true" height="165"/>
+
+</p>
+
 ---
 
-## 🗓️ Contribution Activity
+# 🗓️ Contribution Activity
+
 <p align="center">
   <img src="https://ghchart.rshah.org/0ABDE3/Vaibhavvi" />
 </p>
 
 ---
 
-## 🌍 Connect With Me
+# 🌍 Connect With Me
+
 <p align="center">
-  <a href="mailto:vd3111542@gmail.com">
-    <img src="https://img.shields.io/badge/Email-Contact-0ABDE3?style=for-the-badge"/>
-  </a>
-  <a href="https://vaibhav-portfolio-liard.vercel.app" target="_blank">
-    <img src="https://img.shields.io/badge/Portfolio-Live-0ABDE3?style=for-the-badge"/>
-  </a>
-  <a href="https://www.linkedin.com/in/vaibhav-dubey-8199292b4/" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-Connect-0ABDE3?style=for-the-badge"/>
-  </a>
+
+<a href="mailto:vd3111542@gmail.com">
+<img src="https://img.shields.io/badge/Email-Contact-0ABDE3?style=for-the-badge"/>
+</a>
+
+<a href="https://vaibhav-portfolio-liard.vercel.app" target="_blank">
+<img src="https://img.shields.io/badge/Portfolio-Live-0ABDE3?style=for-the-badge"/>
+</a>
+
+<a href="https://www.linkedin.com/in/vaibhav-dubey-8199292b4/" target="_blank">
+<img src="https://img.shields.io/badge/LinkedIn-Connect-0ABDE3?style=for-the-badge"/>
+</a>
+
 </p>
 
 ---
 
 <p align="center">
-  <b>🚀 Open to Internships & Entry-Level Roles — Let’s build impactful products together!</b>
+<b>🚀 Open to Internships & Entry-Level Roles — Let’s build impactful products together!</b>
 </p>
