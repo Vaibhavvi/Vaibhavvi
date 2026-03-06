@@ -5,7 +5,7 @@
 <h1 align="center">Hi 👋, I'm Vaibhav Dubey</h1>
 
 <h3 align="center">
-Backend-Focused MERN Stack Developer • DSA JAVA • FAST LEARNER
+Backend-Focused MERN Stack Developer • DSA JAVA
 </h3>
 
 <p align="center">
@@ -63,13 +63,6 @@ Backend-Focused MERN Stack Developer • DSA JAVA • FAST LEARNER
 
 ---
 
-## 🏆 GitHub Achievements
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Vaibhavvi&theme=onedark&no-frame=true&row=1&column=7" />
-</p>
-
----
-
 ## 📈 GitHub Stats
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=Vaibhavvi&show_icons=true&theme=tokyonight&hide_border=true" height="165"/>
@@ -85,13 +78,6 @@ Backend-Focused MERN Stack Developer • DSA JAVA • FAST LEARNER
 ## 🗓️ Contribution Activity
 <p align="center">
   <img src="https://ghchart.rshah.org/0ABDE3/Vaibhavvi" />
-</p>
-
----
-
-## 🐍 Contribution Snake
-<p align="center">
-  <img src="https://raw.githubusercontent.com/Vaibhavvi/Vaibhavvi/output/github-contribution-grid-snake.svg" />
 </p>
 
 ---
